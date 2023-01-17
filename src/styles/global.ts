@@ -18,7 +18,8 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-border-style, input, textarea, button {
+body, input, textarea, button {
+    /* font-family: ; */
     font: 400 1rem Roboto, sans-serif
 }
 `;
