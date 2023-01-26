@@ -6,4 +6,4 @@ A web app made on bootcamp Ignite by Rocketseat.
 - ReactJS
 - Styled-component
 - Radix UI
-- Json-Server
+- Json-Server: Para simulações de API
