@@ -23,6 +23,14 @@
       "type": "outcome",
       "createdAt": "2023-01-27T20:20:25.926Z",
       "id": 3
+    },
+    {
+      "description": "Editor Matriz",
+      "category": "Serviço",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-01-27T20:36:08.881Z",
+      "id": 4
     }
   ]
 }
