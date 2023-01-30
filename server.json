@@ -31,6 +31,14 @@
       "type": "income",
       "createdAt": "2023-01-27T20:36:08.881Z",
       "id": 4
+    },
+    {
+      "description": "Sushi",
+      "category": "Alimentação",
+      "price": 40,
+      "type": "outcome",
+      "createdAt": "2023-01-27T20:46:12.249Z",
+      "id": 5
     }
   ]
 }
