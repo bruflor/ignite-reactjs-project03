@@ -10,8 +10,8 @@ import {
   TransactionTypeButton,
 } from './styles'
 import { Controller, useForm } from 'react-hook-form'
-import { useContext } from 'react'
 import { TransactionsContext } from '../../contexts/TransactionsContext'
+import { useContextSelector } from 'use-context-selector'
 
 const newTransactionFormSchema = z.object({
   description: z.string(),
